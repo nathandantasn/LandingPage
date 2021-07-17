@@ -2,5 +2,5 @@
 
 O projeto é uma Landing Page de um aplicativo chamado "Média Fácil", no qual a aplicação realiza  o cálculo de média final de alunos de faculdade. Aplicação ainda está em desenvolvimento. Contudo, a ideia foi utilizar as cores chamativas que nossa aplicação possui, com poucas informações na tela e informando ao usuário os links para baixar o aplicativo na Apple Store ou Google Play Store.
 
-https://github.com/nathandantasn/LandingPage/blob/master/assets/logotipo.png
+Url do site: https://mediafacil.netlify.app/
 
